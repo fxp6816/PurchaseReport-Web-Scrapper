@@ -1,3 +1,4 @@
 Profile.java
-Profile.class
+*.class
 .DS_Store
+out
